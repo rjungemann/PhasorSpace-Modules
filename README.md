@@ -40,6 +40,12 @@ TODO
 
 TODO
 
+## Editing an existing module
+
+1. Find the SVG file in `res/` and the corresponding C++ file in `src/`
+2. If you add/remove/reposition elements in the SVG file, you will need to re-run codegen (see "Adding a new module", below) and then reconcile the code differences (not a big deal)
+3. Verify `plugin.cpp`, `plugin.hpp`, and `plugin.json` to make sure they look correct
+
 ## Adding a new module
 
 1. Duplicate and modify an existing SVG file. Assuming your module is named `SomeModule`, you should create a `SomeModule.svg`
