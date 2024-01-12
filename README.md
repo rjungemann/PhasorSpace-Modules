@@ -18,6 +18,8 @@ This repo contains a series of modules for VCV Rack, for building rhythmic synth
 
 ## The Modules
 
+<img width="1552" alt="image" src="https://github.com/rjungemann/PhasorSpace-Modules/assets/49277/cff8da7b-37b7-42a7-9fad-224a40890829">
+
 ### Stochastic Ramp Filter
 
 TODO
