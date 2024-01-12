@@ -1,0 +1,47 @@
+{
+  "slug": "PhasorSpace",
+  "name": "Phasor Space",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "Phasor Space",
+  "author": "Roger Jungemann",
+  "authorEmail": "",
+  "authorUrl": "https://phasor.space",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "StochasticRampFilter",
+      "name": "Stochastic Ramp Filter",
+      "description": "Probabilistically allow certain ramps through",
+      "tags": []
+    },
+    {
+      "slug": "SwungRampGenerator",
+      "name": "Swung Ramp Generator",
+      "description": "Split a ramp into two swung ramps",
+      "tags": []
+    },
+    {
+      "slug": "PhasedRampDistorter",
+      "name": "Phased Ramp Distorter",
+      "description": "Convert a ramp into a phase-distorted and pseudo-resonant sine",
+      "tags": []
+    },
+    {
+      "slug": "PitchedRampGenerator",
+      "name": "Pitched Ramp Generator",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "AnalogSwizzlingRegister",
+      "name": "Analog Swizzling Register",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
